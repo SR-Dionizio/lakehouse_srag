@@ -217,3 +217,5 @@ logs/
 /terraform/plan.out
 
 *.csv
+/data/gold/
+/data/silver/
